@@ -11,7 +11,8 @@ A collection of the best articles on DS, ML and AI that I've come across.
 8. Visualising Decision Trees - [Visualization](https://towardsdatascience.com/visualizing-decision-trees-with-python-scikit-learn-graphviz-matplotlib-1c50b4aa68dc)
 9. Random Forests - [Random Forest](https://towardsdatascience.com/understanding-random-forest-58381e0602d2)
 10. Light GBM - [LightGBM](https://medium.com/@pushkarmandot/https-medium-com-pushkarmandot-what-is-lightgbm-how-to-implement-it-how-to-fine-tune-the-parameters-60347819b7fc)
-11. SVM - [Introduction and a basic implementation](https://link.medium.com/prANejG90hb)
-12. Comparing Random Search and Grid Search - [Random Search vs Grid Search](https://link.medium.com/r0jSgTP90hb)
-13. Forecasting Sales - [Sales forecasting in retail: what we learned from the M5 competition](https://medium.com/artefact-engineering-and-data-science/sales-forecasting-in-retail-what-we-learned-from-the-m5-competition-445c5911e2f6)
-14. 
+11. XGBoost - [XGBoost](https://towardsdatascience.com/https-medium-com-vishalmorde-xgboost-algorithm-long-she-may-rein-edd9f99be63d)
+12. SVM - [Introduction and a basic implementation](https://link.medium.com/prANejG90hb)
+13. Comparing Random Search and Grid Search - [Random Search vs Grid Search](https://link.medium.com/r0jSgTP90hb)
+14. Forecasting Sales - [Sales forecasting in retail: what we learned from the M5 competition](https://medium.com/artefact-engineering-and-data-science/sales-forecasting-in-retail-what-we-learned-from-the-m5-competition-445c5911e2f6)
+15. 
